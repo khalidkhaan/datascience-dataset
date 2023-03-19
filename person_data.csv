@@ -1,10 +1,10 @@
 Name,Birthday,Blood Type,Income Range,Marriage Status,Loan Status
 Charlie Lee,1992-11-05,B+,25000-49999,Divorced,Not Applied
 Isabella Davis,1979-12-03,B+,75000-99999,Single,Not Applied
-Mia Rodriguez,1991-06-02,A+,25000-49999,Married,Not Applied
+Mia Rodriguez,1991-06-02,A+,25000-49999,Married   ,Not Applied
 Nathan Kim,1982-09-14,B+,75000-99999,Single,Not Applied
-Rachel Smith,1981-07-09,A+,75000-99999,Married,Not Applied
-Taylor Davis,1974-08-06,O+,25000-49999,Married,Rejected
+Rachel Smith,1981-07-09,A+,75000-99999,    Married,Not Applied
+Taylor Davis,1974-08-06,O+,25000-49999,MARRIED,Rejected
 Willow Chen,1989-09-05,O-,50000-74999,Single,Not Applied
 Andrew Lee,1981-03-20,AB+,25000-49999,Single,Not Applied
 Bridget Davis,1978-06-16,O-,50000-74999,Married,Rejected
@@ -16,14 +16,14 @@ Henry Johnson,1988-01-26,A-,75000-99999,Single,Not Applied
 Isaac Smith,1982-06-19,B+,25000-49999,Married,Rejected
 Julia Davis,1996-12-13,O-,25000-49999,Single,Not Applied
 Kevin Kim,1973-05-27,A+,25000-49999,Married,Rejected
-Lily Chen,1993-10-03,B+,25000-49999,Single,Not Applied
+Lily Chen,1993-10-03,B+,25000-49999,SINGLE,Not Applied
 Mason Lee,1987-07-26,O+,25000-49999,Divorced,Not Applied
 Nora Rodriguez,1989-12-09,AB-,25000-49999,Married,Not Applied
 Owen Kim,1984-03-04,A-,75000-99999,Single,Not Applied
 Penelope Johnson,1998-08-28,O-,25000-49999,Single,Not Applied
 Quincy Smith,1991-01-11,AB+,25000-49999,Married,Not Applied
 Ruby Davis,1975-04-25,A+,75000-99999,Married,Not Applied
-Sophie Chen,1982-09-15,O-,25000-49999,Single,Not Applied
+Sophie Chen,1982-09-15,O-,25000-49999,SINGLE,Not Applied
 Toby Lee,1990-12-28,B+,25000-49999,Divorced,Not Applied
 Una Rodriguez,1993-05-22,A-,25000-49999,Married,Not Applied
 Victor Kim,1994-04-21,B+,150000-199999,Married,Approved
