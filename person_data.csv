@@ -1,32 +1,32 @@
-Name,Birthday,Blood Type,Income Range,Marriage Status,Loan Status,Phone Number
-Charlie Lee,1992-11-05,B+,25000-49999,Divorced,Not Applied,0096555-1234
-Isabella Davis,1979-12-03,B+,75000-99999,Single,Not Applied,0096555-2345
-Mia Rodriguez,1991-06-02,A+,25000-49999,Married   ,Not Applied,+96555-3456
-Nathan Kim,1982-09-14,B+,75000-99999,Single,Not Applied,0096555-4567
-Rachel Smith,1981-07-09,A+,75000-99999,    Married,Not Applied,6567
-Taylor Davis,1974-08-06,O+,25000-49999,MARRIED,Rejected,+96555-4537
-Willow Chen,1989-09-05,O-,50000-74999,Single,Not Applied,4537
-Andrew Lee,1981-03-20,AB+,25000-49999,Single,Not Applied,0096555-4437
-Bridget Davis,1978-06-16,O-,50000-74999,Married,Rejected,0096555-4657
-Dylan Kim,1997-04-30,A-,25000-49999,Single,Approved,0096555-4637
-Emma Chen,1985-08-08,B+,75000-99999,Married,Not Applied,0096555-4987
-Franklin Rodriguez,1990-02-22,AB-,25000-49999,Single,Not Applied,0096765-4567
-Gina Lee,1976-11-14,O+,25000-49999,Married,Not Applied,0096555-7667
-Henry Johnson,1988-01-26,A-,75000-99999,Single,Not Applied,0096555-4087
-Isaac Smith,1982-06-19,B+,25000-49999,Married,Rejected,0096555-4567
-Julia Davis,1996-12-13,O-,25000-49999,Single,Not Applied,0096785-4567
-Kevin Kim,1973-05-27,A+,25000-49999,Married,Rejected,0096555-4437
-Lily Chen,1993-10-03,B+,25000-49999,SINGLE,Not Applied,0096555-4917
-Mason Lee,1987-07-26,O+,25000-49999,Divorced,Not Applied,0096555-5467
-Nora Rodriguez,1989-12-09,AB-,25000-49999,Married,Not Applied,0096555-8667
-Owen Kim,1984-03-04,A-,75000-99999,Single,Not Applied,0096555-4567
-Penelope Johnson,1998-08-28,O-,25000-49999,Single,Not Applied,0096555-4667
-Quincy Smith,1991-01-11,AB+,25000-49999,Married,Not Applied,0096555-4887
-Ruby Davis,1975-04-25,A+,75000-99999,Married,Not Applied,0096555-4387
-Sophie Chen,1982-09-15,O-,25000-49999,SINGLE,Not Applied,0096555-6787
-Toby Lee,1990-12-28,B+,25000-49999,Divorced,Not Applied,0096555-8237
-Una Rodriguez,1993-05-22,A-,25000-49999,Married,Not Applied,0096555-7657
-Victor Kim,1994-04-21,B+,150000-199999,Married,Approved,0096555-1237
-Wendy Chen,1987-11-16,O-,75000-99999,Single,Not Applied,0096555-3217
-Xander Lee,1976-02-03,AB-,75000-99999,Married,Rejected,0096555-3327
-Yara Johnson,1984-05-27,A+,100000,MARRIED,Approved,0096555-2237
+Name,Birthday,Blood Type,Income Range,Marriage Status,Loan Status,Phone Number, Salary
+Charlie Lee,1992-11-05,B+,25000-49999,Divorced,Not Applied,0096555-1234,26000
+Isabella Davis,1979-12-03,B+,75000-99999,Single,Not Applied,0096555-2345,88888
+Mia Rodriguez,1991-06-02,A+,25000-49999,Married   ,Not Applied,+96555-3456,33333
+Nathan Kim,1982-09-14,B+,75000-99999,Single,Not Applied,0096555-4567,78000
+Rachel Smith,1981-07-09,A+,75000-99999,    Married,Not Applied,6567,87000
+Taylor Davis,1974-08-06,O+,25000-49999,MARRIED,Rejected,+96555-4537,33299
+Willow Chen,1989-09-05,O-,50000-74999,Single,Not Applied,4537,53003
+Andrew Lee,1981-03-20,AB+,25000-49999,Single,Not Applied,0096555-4437,48988
+Bridget Davis,1978-06-16,O-,50000-74999,Married,Rejected,0096555-4657,56000
+Dylan Kim,1997-04-30,A-,25000-49999,Single,Approved,0096555-4637,44500
+Emma Chen,1985-08-08,B+,75000-99999,Married,Not Applied,0096555-4987,76000
+Franklin Rodriguez,1990-02-22,AB-,25000-49999,Single,Not Applied,0096765-4567,46464
+Gina Lee,1976-11-14,O+,25000-49999,Married,Not Applied,0096555-7667,29000
+Henry Johnson,1988-01-26,A-,75000-99999,Single,Not Applied,0096555-4087,88700
+Isaac Smith,1982-06-19,B+,25000-49999,Married,Rejected,0096555-4567,42929
+Julia Davis,1996-12-13,O-,25000-49999,Single,Not Applied,0096785-4567,25350
+Kevin Kim,1973-05-27,A+,25000-49999,Married,Rejected,0096555-4437,34000
+Lily Chen,1993-10-03,B+,25000-49999,SINGLE,Not Applied,0096555-4917,33200
+Mason Lee,1987-07-26,O+,25000-49999,Divorced,Not Applied,0096555-5467,41900
+Nora Rodriguez,1989-12-09,AB-,25000-49999,Married,Not Applied,0096555-8667,26700
+Owen Kim,1984-03-04,A-,75000-99999,Single,Not Applied,0096555-4567,87970
+Penelope Johnson,1998-08-28,O-,25000-49999,Single,Not Applied,0096555-4667,32329
+Quincy Smith,1991-01-11,AB+,25000-49999,Married,Not Applied,0096555-4887,44990
+Ruby Davis,1975-04-25,A+,75000-99999,Married,Not Applied,0096555-4387,80000
+Sophie Chen,1982-09-15,O-,25000-49999,SINGLE,Not Applied,0096555-6787,46560
+Toby Lee,1990-12-28,B+,25000-49999,Divorced,Not Applied,0096555-8237,49870
+Una Rodriguez,1993-05-22,A-,25000-49999,Married,Not Applied,0096555-7657,25999
+Victor Kim,1994-04-21,B+,150000-199999,Married,Approved,0096555-1237,150353
+Wendy Chen,1987-11-16,O-,75000-99999,Single,Not Applied,0096555-3217,78697
+Xander Lee,1976-02-03,AB-,75000-99999,Married,Rejected,0096555-3327,79079
+Yara Johnson,1984-05-27,A+,100000,MARRIED,Approved,0096555-2237,100000
