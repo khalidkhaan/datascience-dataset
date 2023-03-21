@@ -1,36 +1,36 @@
-Name,Birthday,Blood Type,Income Range,Marriage Status,Loan Status,Phone Number,Salary,Workout
-Dr. Charlie Lee,1992-11-05,B+,25000-49999,Divorced,Not Applied,0096555-1234,26000,15 Minutes
-Ms. Isabella Davis,1979-12-03,B+,75000-99999,Single,Not Applied,0096555-2345,88888,25 Minutes
-Mr. Mia Rodriguez,1991-06-02,A+,25000-49999,Married   ,Not Applied,+96555-3456,33333,110 Minutes
-Mr. Nathan Kim,1982-09-14,B+,75000-99999,Single,Not Applied,0096555-4567,78000,12 Minutes
-Miss. Rachel Smith,1981-07-09,a+,75000-99999,    Married,Not Applied,6567,87000,22 Minutes
-Taylor Davis,1974-08-06,O+,25000-49999,MARRIED,Rejected,+96555-4537,33299,20 Minutes
-Willow Chen,1989-09-05,O-,50000-74999,Single,Not Applied,4537,53003,13 Minutes
-Andrew Lee,1981-03-20,AB+,25000-49999,Single,Not Applied,0096555-4437,48988,140 Minutes
-Bridget Davis,1978-06-16,O-,50000-74999,Married,Rejected,0096555-4657,56000,18 Minutes
-Dr. Dylan Kim,1997-04-30, A-,25000-49999,Single,Approved,0096555-4637,44500,19 Minutes
-Emma Chen,1985-08-08,B+,75000-99999,Married,Not Applied,0096555-4987,76000,17 Minutes
-Franklin Rodriguez,1990-02-22,AB-,25000-49999,Single,Not Applied,0096765-4567,46464,100 Minutes
-Gina Lee,1976-11-14,O+,25000-49999,Married,Not Applied,0096555-7667,29000,5 Minutes
-Mr. Henry Johnson,1988-01-26, A-,75000-99999,Single,Not Applied,0096555-4087,88700,9 Minutes
-Isaac Smith,1982-06-19,B+,25000-49999,Married,Rejected,0096555-4567,42929,2 Minutes
-Julia Davis,1996-12-13,O-,25000-49999,Single,Not Applied,0096785-4567,25350,3 Minutes
-Kevin Kim,1973-05-27,A+,25000-49999,Married,Rejected,0096555-4437,34000,4 Minutes
-Miss. Lily Chen,1993-10-03, B+,25000-49999,SINGLE,Not Applied,0096555-4917,33200,5 Minutes
-Mason Lee,1987-07-26,O+,25000-49999,Divorced,Not Applied,0096555-5467,41900,6 Minutes
-Nora Rodriguez,1989-12-09,AB-,25000-49999,Married,Not Applied,0096555-8667,26700,12 Minutes
+Name,Birthday,Blood Type,Income Range,Marriage Status,Loan Status,Phone Number,Salary,Workout,Weight
+Dr. Charlie Lee,1992-11-05,B+,25000-49999,Divorced,Not Applied,0096555-1234,26000,15 Minutes,64
+Ms. Isabella Davis,1979-12-03,B+,75000-99999,Single,Not Applied,0096555-2345,88888,25 Minutes,128
+Mr. Mia Rodriguez,1991-06-02,A+,25000-49999,Married   ,Not Applied,+96555-3456,33333,110 Minutes,134
+Mr. Nathan Kim,1982-09-14,B+,75000-99999,Single,Not Applied,0096555-4567,78000,12 Minutes,77
+Miss. Rachel Smith,1981-07-09,a+,75000-99999,    Married,Not Applied,6567,87000,22 Minutes,80
+Taylor Davis,1974-08-06,O+,25000-49999,MARRIED,Rejected,+96555-4537,33299,20 Minutes,144
+Willow Chen,1989-09-05,O-,50000-74999,Single,Not Applied,4537,53003,13 Minutes,142
+Andrew Lee,1981-03-20,AB+,25000-49999,Single,Not Applied,0096555-4437,48988,140 Minutes,75
+Bridget Davis,1978-06-16,O-,50000-74999,Married,Rejected,0096555-4657,56000,18 Minutes,62
+Dr. Dylan Kim,1997-04-30, A-,25000-49999,Single,Approved,0096555-4637,44500,19 Minutes,64
+Emma Chen,1985-08-08,B+,75000-99999,Married,Not Applied,0096555-4987,76000,17 Minutes,84
+Franklin Rodriguez,1990-02-22,AB-,25000-49999,Single,Not Applied,0096765-4567,46464,100 Minutes,62
+Gina Lee,1976-11-14,O+,25000-49999,Married,Not Applied,0096555-7667,29000,5 Minutes,78
+Mr. Henry Johnson,1988-01-26, A-,75000-99999,Single,Not Applied,0096555-4087,88700,9 Minutes,76
+Isaac Smith,1982-06-19,B+,25000-49999,Married,Rejected,0096555-4567,42929,2 Minutes,145
+Julia Davis,1996-12-13,O-,25000-49999,Single,Not Applied,0096785-4567,25350,3 Minutes,149
+Kevin Kim,1973-05-27,A+,25000-49999,Married,Rejected,0096555-4437,34000,4 Minutes,139
+Miss. Lily Chen,1993-10-03, B+,25000-49999,SINGLE,Not Applied,0096555-4917,33200,5 Minutes,138
+Mason Lee,1987-07-26,O+,25000-49999,Divorced,Not Applied,0096555-5467,41900,6 Minutes,80
+Nora Rodriguez,1989-12-09,AB-,25000-49999,Married,Not Applied,0096555-8667,26700,12 Minutes,83
 Owen Kim,1984-03-04,A-,75000-99999,Single,Not Applied,0096555-4567,87970,17 Minutes
-Penelope Johnson,1998-08-28,O-,25000-49999,Single,Not Applied,0096555-4667,32329,270 Minutes
+Penelope Johnson,1998-08-28,O-,25000-49999,Single,Not Applied,0096555-4667,32329,270 Minutes,71
 Quincy Smith,1991-01-11,AB+,25000-49999,Married,Not Applied,0096555-4887,44990,25 Minutes
-Ruby Davis,1975-04-25, a+,75000-99999,Married,Not Applied,0096555-4387,80000,19 Minutes
+Ruby Davis,1975-04-25, a+,75000-99999,Married,Not Applied,0096555-4387,80000,19 Minutes,72
 Ms. Sophie Chen,1982-09-15,O-,25000-49999,SINGLE,Not Applied,0096555-6787,46560,17 Minutes
 Toby Lee,1990-12-28,B+,25000-49999,Divorced,Not Applied,0096555-8237,49870,16 Minutes
-Una Rodriguez,1993-05-22,A-,25000-49999,Married,Not Applied,0096555-7657,25999,140 Minutes
-Victor Kim,1994-04-21,B+,150000-199999,Married,Approved,0096555-1237,150353,13 Minutes
-Ms. Wendy Chen,1987-11-16,O-,75000-99999,Single,Not Applied,0096555-3217,78697,12 Minutes
-Xander Lee,1976-02-03,AB-,75000-99999,Married,Rejected,0096555-3327,79079,110 Minutes
+Una Rodriguez,1993-05-22,A-,25000-49999,Married,Not Applied,0096555-7657,25999,140 Minutes,73
+Victor Kim,1994-04-21,B+,150000-199999,Married,Approved,0096555-1237,150353,13 Minutes,75
+Ms. Wendy Chen,1987-11-16,O-,75000-99999,Single,Not Applied,0096555-3217,78697,12 Minutes,76
+Xander Lee,1976-02-03,AB-,75000-99999,Married,Rejected,0096555-3327,79079,110 Minutes,77
 Yara Johnson,1984-05-27,A+,100000,MARRIED,Approved,0096555-2237,100000,15 Minutes
-Mr. Henry Johnson,1988-02-26,A-,75000-92999,Single,Not Applied,0026555-4087,88200,29 Minutes
-Dr. Isaac Smith,1982-07-19, B+ ,25000-49999,Married,Rejected,0096755-4567,42729,27 Minutes
-Miss. Julia Davis,1996-11-13,O-,25000-49999,Single,Not Applied,0096185-4567,25150,13 Minutes
-Kevin Kim,1973-03-27,A+,25000-49999,Married,Rejected,0096555-4337,34300,34 Minutes
+Mr. Henry Johnson,1988-02-26,A-,75000-92999,Single,Not Applied,0026555-4087,88200,29 Minutes,78
+Dr. Isaac Smith,1982-07-19, B+ ,25000-49999,Married,Rejected,0096755-4567,42729,27 Minutes,83
+Miss. Julia Davis,1996-11-13,O-,25000-49999,Single,Not Applied,0096185-4567,25150,13 Minutes,86
+Kevin Kim,1973-03-27,A+,25000-49999,Married,Rejected,0096555-4337,34300,34 Minutes,89
