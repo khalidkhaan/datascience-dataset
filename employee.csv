@@ -1,22 +1,22 @@
 surveyDate,educationStatus,convertedSalary,hobby,country,recommendedJobs,versionControl,age,yearsExperience,gender,salary
 2022-01-01,Master's Degree,78000,Reading,United States,Software Developer,Git,28,5,Male,75000
-2022-01-01,Bachelor's Degree,65000,Music,Canada,Data Analyst,Git,35,7,Female,60000
-2022-01-01,High School,46000,Sports,India,Graphic Designer,SVN,23,2,Male,45000
-2022-01-01,PhD,110000,Gaming,United Kingdom,Data Scientist,Git,40,10,Male,100000
-2022-01-01,Associate's Degree,58000,Travel,Mexico,Web Developer,Git,26,3,Female,55000
+2022-01-01,Bachelor's Degree,65000,Music,Canada,Data Analyst,Git,,7,Female,60000
+2022-01-01,High School,46000,Sports,India,Graphic Designer,SVN,23,2,,45000
+2022-01-01,PhD,110000,Gaming,United Kingdom,Data Scientist,Git,,10,Male,100000
+2022-01-01,Associate's Degree,58000,Travel,Mexico,Web Developer,Git,26,3,,55000
 2022-01-01,Bachelor's Degree,72000,Photography,Australia,Software Engineer,Git,31,6,Male,70000
 2022-01-01,Master's Degree,95000,Painting,Germany,Data Engineer,Git,37,8,Female,90000
-2022-01-01,High School,38000,Reading,Brazil,Graphic Designer,SVN,21,1,Male,35000
-2022-01-01,PhD,125000,Cooking,United States,Data Scientist,Git,45,12,Female,120000
+2022-01-01,High School,38000,Reading,Brazil,Graphic Designer,SVN,,1,Male,35000
+2022-01-01,PhD,125000,Cooking,United States,Data Scientist,Git,45,12,,120000
 2022-01-01,Associate's Degree,53000,Hiking,Canada,Web Developer,Git,25,2,Male,50000
 2022-01-02,Bachelor's Degree,55000,Video Games,United States,Data Analyst,Git,29,4,Male,50000
-2022-01-02,Master's Degree,70000,Photography,Canada,Software Developer,Git,34,6,Female,65000
-2022-01-02,PhD,100000,Travel,United States,Data Scientist,Git,42,9,Female,95000
+2022-01-02,Master's Degree,70000,Photography,Canada,Software Developer,Git,,6,Female,65000
+2022-01-02,PhD,100000,Travel,United States,Data Scientist,Git,42,9,,95000
 2022-01-02,Bachelor's Degree,50000,Painting,United Kingdom,Web Developer,SVN,25,3,Male,45000
-2022-01-02,High School,30000,Sports,Mexico,Graphic Designer,SVN,20,0,Male,25000
+2022-01-02,High School,30000,Sports,Mexico,Graphic Designer,SVN,,0,Male,25000
 2022-01-02,Associate's Degree,47000,Reading,Germany,Software Engineer,Git,27,2,Female,45000
 2022-01-02,Bachelor's Degree,60000,Travel,Australia,Data Analyst,Git,31,5,Male,55000
-2022-01-02,Master's Degree,90000,Music,India,Data Engineer,Git,39,8,Female,85000
+2022-01-02,Master's Degree,90000,Music,India,Data Engineer,Git,,8,Female,85000
 2022-01-02,PhD,110000,Gaming,Canada,Data Scientist,Git,43,11,Male,100000
 2022-01-02,High School,38000,Hiking,United States,Web Developer,SVN,22,1,Female,35000
 2022-01-02,Associate's Degree,52000,Cooking,United Kingdom,Software Developer,Git,28,3,Male,50000
